@@ -915,3 +915,10 @@ footer a{
 #instafeed > div:nth-last-child(-n+3) {
     margin-top: 15px;
 }
+.footer-about{
+    overflow: hidden;
+    line-height: 21px;
+    font-size: 14.5px;
+    letter-spacing: 1px;
+    
+}
